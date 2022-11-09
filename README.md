@@ -4,3 +4,8 @@
 
 # 410-Gone
 Simple service only returns HTTP 410 Gone
+
+## Usage
+Click "Deploy" button above to deploy. Connect custom domain if you want. (can be done at Project settings -> Domains)
+
+You can change `templates/410.html` to change result.
