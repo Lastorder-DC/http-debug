@@ -1,0 +1,19 @@
+{
+  "name": "410-gone",
+  "version": "0.1.0",
+  "description": "Simple service only returns HTTP 410 Gone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lastorder-DC/410-Gone.git"
+  },
+  "author": "Lastorder-DC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lastorder-DC/410-Gone/issues"
+  },
+  "homepage": "https://github.com/Lastorder-DC/410-Gone#readme"
+}
